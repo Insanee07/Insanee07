@@ -18,8 +18,8 @@
 
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" border="0" alt="animated-line-image-0168"  width="100%"/></a>
 
-<p align='center'>
-   <b>💻 Tech Stack ⚡<b><br/><br/>
+<div align='center'>
+   <h3>💻 Tech Stack ⚡<h3>
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
@@ -35,24 +35,23 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
   
-</p>
 </div>
-
 
 
 <div align="center">
-  <b>🌐 Connect with Me 🍬<b><br><br>
+  <h3>🌐 Connect with Me 🍬<h3>
 <a href="mailto:ex@gmail.com?subject=Hello&body=Hi%20there!"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  /></a>
 <a href="https://www.linkedin.com/in/insane07/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  /></a>
 </div>
-<br>
-<p align='center'>
-  🎧 My workspace 👨‍💻<br/><br/>
+
+
+<div align='center'>
+  <h3>🎧 My workspace 👨‍💻</h3>
   <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%2011th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
+</div>
 
 
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" border="0" alt="animated-line-image-0168"  width="100%"/></a>
