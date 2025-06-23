@@ -53,6 +53,8 @@
 
 ##
 
-<img src="https://raw.githubusercontent.com/Insanee07/Insanee07/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://github.com/Insanee07/Insanee07/blob/main/assets/e22f9792f44f01054b91ed41187e53d8.gif"/>
+</p>
 
 ###
