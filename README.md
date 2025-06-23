@@ -53,6 +53,6 @@
 
 ##
 
-<img src="https://raw.githubusercontent.com/prithwish007/prithwish007/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Insanee07/Insanee07/output/snake.svg" alt="Snake animation" />
 
 ###
