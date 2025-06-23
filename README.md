@@ -1,20 +1,22 @@
-<h1 align="center">Hi there 👋, I'm Sagnik AKA Insane</h1>
+<h2 align="center">Hi there 👋, I'm Sagnik AKA Insane</h1>
 <h3 align="center">Frontend Developer | HTML • CSS • JavaScript</h3> 
 
 
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" border="0" alt="animated-line-image-0168"  width="100%"/></a>
 
 <!-- Counter -->
 <div align="center">
 <img src="https://count.getloli.com/@Insanee07?theme=booru-vp" />
 </div>
 
-##
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Insanee07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="225" alt="stats graph"  /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Insanee07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-##
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" border="0" alt="animated-line-image-0168"  width="100%"/></a>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
@@ -51,7 +53,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
 </div>
 
-##
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0168.gif" border="0" alt="animated-line-image-0168"  width="100%"/></a>
 
 <p align="center">
   <img src="https://github.com/Insanee07/Insanee07/blob/main/assets/e22f9792f44f01054b91ed41187e53d8.gif"/>
